@@ -9,8 +9,6 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Referencia: `AQUÍ <https://github.com/c13inb/c13inb.github.io/wiki>`_
-
 .. note::
 
    This project is under active development.
@@ -21,5 +19,4 @@ Contents
 .. toctree::
 
    usage
-   Introducction/introduccion
    api
