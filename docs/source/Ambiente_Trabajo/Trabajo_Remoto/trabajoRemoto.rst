@@ -5,7 +5,9 @@ Trabajando remotamente 01
 
 A veces, estando en tu casa, en el café, o en cualquier parte del mundo, necesitarás tus datos que están en las computadoras del cluster. Otras ocasiones querrás dejar corriendo trabajos en el cluster desde tu sofá. Otras, querrás revisar el resultado de tus scripts en tu laptop. O quizás los de la entrada del Campus no te dejaron entrar en vacaciones porque estaban de mal humor. En cualquier caso, tienes varias opciones para acceder al cluster desde cualquier parte del mundo.
 
->  :warning: Solo UNA computadora de todo el cluster es accesible desde fuera del INB, y es ``penfield.inb.unam.mx``. Una vez que llegues a ``penfield`` podrás brincarte a cualquier otra computadora del cluster, y ver el contendido de tu ``home`` y de ``/misc``.
+.. warning::
+
+   Solo UNA computadora de todo el cluster es accesible desde fuera del INB, y es ``penfield.inb.unam.mx``. Una vez que llegues a ``penfield`` podrás brincarte a cualquier otra computadora del cluster, y ver el contendido de tu ``home`` y de ``/misc``.
 
 Quiero un artículo que no puedo acceder en casa
 --------------------
