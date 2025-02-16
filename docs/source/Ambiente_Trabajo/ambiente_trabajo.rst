@@ -7,7 +7,7 @@ El ambiente de trabajo que se tiene en Don Clusterio es el siguiente:
    :numbered:
 
    Bash_D/Bash
-   trabajo_remoto
+   Trabajo_Remoto/trabajoRemoto
    permisos
    home
    misc
