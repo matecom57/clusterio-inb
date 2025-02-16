@@ -1,4 +1,4 @@
-Como colaborar en la wiki del C-13 01
+Colaborar en la Documentación
 ====================
 
 

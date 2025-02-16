@@ -33,6 +33,7 @@ Contenido
    Introduccion/introduccion
    DefinicionUsuario/definiciondeusuario
    Colaboracion/colaboracion
+   Advertencias/advertencias
    Otros/otros
 
 
