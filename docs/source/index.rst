@@ -28,6 +28,7 @@ Contenido
 --------
 
 .. toctree::
+   :numbered:
 
    usage
    Introduccion/introduccion
