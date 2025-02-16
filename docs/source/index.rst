@@ -34,7 +34,7 @@ Contenido
    DefinicionUsuario/definiciondeusuario
    Colaboracion/colaboracion
    Advertencias/advertencias
-   Ambiente_Trabajo/ambiente_trabajo.rst
+   Ambiente_Trabajo/ambiente_trabajo
    Otros/otros
 
 

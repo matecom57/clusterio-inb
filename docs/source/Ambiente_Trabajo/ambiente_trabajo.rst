@@ -6,7 +6,7 @@ El ambiente de trabajo que se tiene en Don Clusterio es el siguiente:
 .. toctree::
    :numbered:
 
-   bash
+   Bash_D/Bash
    trabajo_remoto
    permisos
    home
