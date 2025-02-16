@@ -30,8 +30,8 @@ Contenido
 .. toctree::
    :numbered:
 
-   usage
    Introduccion/introduccion
    DefinicionUsuario/definiciondeusuario
-   api
+   Otros/otros
+
 
