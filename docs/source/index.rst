@@ -28,7 +28,6 @@ Contenido
 --------
 
 .. toctree::
-   :numbered:
 
    Introduccion/introduccion
    DefinicionUsuario/definiciondeusuario
